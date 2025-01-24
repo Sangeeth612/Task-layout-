@@ -175,7 +175,7 @@ input[type="text"] {
 }
 
 .icon-wrapper {
-    margin-right: 20px;
+    align-items: center;
 }
 
 .why-choose-icon {
